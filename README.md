@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Currently working as a Frontend Developer 💻
-Interested in everything React 🤔
-Currently learning Python 🧑‍🎓
-
 <!--
 **marxy2810/marxy2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
