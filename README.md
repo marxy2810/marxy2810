@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working as a Frontend Developer 💻
+Currently working as Ecommerce Tech LEad @ Spiritly 💻
 <!--
 **marxy2810/marxy2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
